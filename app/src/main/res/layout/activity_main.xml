@@ -8,8 +8,8 @@
     tools:context=".MainActivity">
 
     <include
-        android:id="@+id/linearLayout"
-        layout="@layout/linear_layout"
+        android:id="@+id/relativeLayout"
+        layout="@layout/relative_layout"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
